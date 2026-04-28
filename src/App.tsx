@@ -1,5 +1,5 @@
 import Navbar from "./components/Navbar";
-import Courses from "./components/Courses/courses";
+import Courses from "./components/Courses/Courses";
 
 function App() {
   return (
