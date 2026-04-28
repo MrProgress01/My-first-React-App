@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar";
 import Courses from "./components/Courses/Courses";
+import Classwork from "./components/Classwork/Classwork";
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <h1>Hi</h1>
       <Navbar />
       <Courses />
+      <Classwork />
     </>
   );
 }
